@@ -7,6 +7,7 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "cypress": "^6.3.0",
     "eslint": "^7.10.0",
     "eslint-plugin-react": "^7.21.3",
     "less": "^3.12.2",
